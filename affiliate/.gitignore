@@ -1,6 +1,7 @@
 /target/
 *.class
 *.DS_Store
+*.war
 /dist
 /.classpath
 /.settings
